@@ -1,4 +1,3 @@
-123
 use std::{
     collections::{HashMap, HashSet},
     fs,
